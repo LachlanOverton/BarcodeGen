@@ -29,3 +29,13 @@ C:\Users\Lachlan\Desktop\VS PRojs\Text To Binary To Image\Text-Binary_image\obj\
 C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\bin\Debug\Text-Binary-Image.exe.config
 C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\obj\Debug\Text-Binary-Image.exe
 C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\obj\Debug\Text-Binary-Image.pdb
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\obj\Debug\Text-Binary_image.csprojResolveAssemblyReference.cache
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\obj\Debug\TextBinaryImage.Form1.resources
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\obj\Debug\TextBinaryImage.Properties.Resources.resources
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\obj\Debug\Text-Binary_image.csproj.GenerateResource.Cache
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\bin\Debug\Text-Binary-Image.exe.manifest
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\bin\Debug\Text-Binary-Image.application
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\bin\Debug\Text-Binary-Image.exe
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\bin\Debug\Text-Binary-Image.pdb
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\obj\Debug\Text-Binary-Image.exe.manifest
+C:\Users\Lachlan\Documents\GitHub\Text-Binary-Image\Text To Binary To Image\Text-Binary_image\obj\Debug\Text-Binary-Image.application
